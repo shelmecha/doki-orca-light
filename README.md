@@ -1,5 +1,7 @@
 # Doki Light Terminal Themes
 
+![Light Terminal Themes cover](images/cover.png)
+
 34 terminal color themes for [Orca](https://orca.dev). Install from the plugin directory, then pick one in Settings, Terminal.
 
 These themes are inspired by [Doki Theme](https://github.com/doki-theme/doki-theme-vscode), [termcn](https://github.com/shadcn-labs/termcn) and the other palette projects listed under Credits below. Each palette is adapted from its original project; the original authors made the color choices.

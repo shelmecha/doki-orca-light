@@ -2,7 +2,7 @@
   "manifestVersion": 2,
   "id": "doki-terminal-light",
   "name": "Doki Light Terminal Themes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Terminal color themes inspired by Doki Theme, termcn and other palette projects. Full credits in the README.",
   "engines": {
     "orca": ">=1.4.246"
@@ -187,5 +187,21 @@
     "name": "shelmecha",
     "url": "https://github.com/shelmecha"
   },
-  "repository": "https://github.com/shelmecha/doki-orca-light"
+  "repository": "https://github.com/shelmecha/doki-orca-light",
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "Doki Light Terminal Themes: three terminal windows in different color palettes next to the plugin name"
+  },
+  "screenshots": [
+    {
+      "path": "images/screenshot-1.png",
+      "alt": "Gallery of eight Doki Light Terminal Themes palettes, each with a terminal preview and its 16 colors",
+      "caption": "Theme gallery"
+    },
+    {
+      "path": "images/screenshot-2.png",
+      "alt": "One Doki Light Terminal Themes palette on a large terminal next to its ANSI color swatches",
+      "caption": "Terminal preview"
+    }
+  ]
 }
