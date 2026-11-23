@@ -2,7 +2,7 @@
   "manifestVersion": 2,
   "id": "doki-terminal-light",
   "name": "Doki Light Terminal Themes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Terminal color themes inspired by Doki Theme, termcn and other palette projects. Full credits in the README.",
   "engines": {
     "orca": ">=1.4.246"
@@ -183,6 +183,9 @@
     ]
   },
   "license": "MIT",
-  "author": "shelmecha",
+  "author": {
+    "name": "shelmecha",
+    "url": "https://github.com/shelmecha"
+  },
   "repository": "https://github.com/shelmecha/doki-orca-light"
 }
