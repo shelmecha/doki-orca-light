@@ -1,0 +1,188 @@
+{
+  "manifestVersion": 2,
+  "id": "doki-terminal-light",
+  "name": "Doki Light Terminal Themes",
+  "version": "0.1.0",
+  "description": "Doki and termcn light terminal palettes from doki-theme-picker.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "terminalThemes": [
+      {
+        "id": "doki-asuna-light",
+        "title": "Doki Asuna Light",
+        "path": "terminal/doki-asuna-light.json"
+      },
+      {
+        "id": "doki-beatrice",
+        "title": "Doki Beatrice",
+        "path": "terminal/doki-beatrice.json"
+      },
+      {
+        "id": "doki-c-c",
+        "title": "Doki C.C.",
+        "path": "terminal/doki-c-c.json"
+      },
+      {
+        "id": "doki-darkness-light",
+        "title": "Doki Darkness Light",
+        "path": "terminal/doki-darkness-light.json"
+      },
+      {
+        "id": "doki-emilia-light",
+        "title": "Doki Emilia Light",
+        "path": "terminal/doki-emilia-light.json"
+      },
+      {
+        "id": "doki-ishtar-light",
+        "title": "Doki Ishtar Light",
+        "path": "terminal/doki-ishtar-light.json"
+      },
+      {
+        "id": "doki-mai-light",
+        "title": "Doki Mai Light",
+        "path": "terminal/doki-mai-light.json"
+      },
+      {
+        "id": "doki-maple-light",
+        "title": "Doki Maple Light",
+        "path": "terminal/doki-maple-light.json"
+      },
+      {
+        "id": "doki-mioda-ibuki-light",
+        "title": "Doki Mioda Ibuki Light",
+        "path": "terminal/doki-mioda-ibuki-light.json"
+      },
+      {
+        "id": "doki-monika-light",
+        "title": "Doki Monika Light",
+        "path": "terminal/doki-monika-light.json"
+      },
+      {
+        "id": "doki-nakano-ichika",
+        "title": "Doki Nakano Ichika",
+        "path": "terminal/doki-nakano-ichika.json"
+      },
+      {
+        "id": "doki-nakano-itsuki",
+        "title": "Doki Nakano Itsuki",
+        "path": "terminal/doki-nakano-itsuki.json"
+      },
+      {
+        "id": "doki-natsuki-light",
+        "title": "Doki Natsuki Light",
+        "path": "terminal/doki-natsuki-light.json"
+      },
+      {
+        "id": "doki-ryuko-light",
+        "title": "Doki Ryuko Light",
+        "path": "terminal/doki-ryuko-light.json"
+      },
+      {
+        "id": "doki-satsuki-light",
+        "title": "Doki Satsuki Light",
+        "path": "terminal/doki-satsuki-light.json"
+      },
+      {
+        "id": "doki-sayori-light",
+        "title": "Doki Sayori Light",
+        "path": "terminal/doki-sayori-light.json"
+      },
+      {
+        "id": "doki-senko",
+        "title": "Doki Senko",
+        "path": "terminal/doki-senko.json"
+      },
+      {
+        "id": "doki-shigure",
+        "title": "Doki Shigure",
+        "path": "terminal/doki-shigure.json"
+      },
+      {
+        "id": "doki-tohru",
+        "title": "Doki Tohru",
+        "path": "terminal/doki-tohru.json"
+      },
+      {
+        "id": "doki-tomori-nao",
+        "title": "Doki Tomori Nao",
+        "path": "terminal/doki-tomori-nao.json"
+      },
+      {
+        "id": "doki-yuri-light",
+        "title": "Doki Yuri Light",
+        "path": "terminal/doki-yuri-light.json"
+      },
+      {
+        "id": "doki-yuzuriha-inori",
+        "title": "Doki Yuzuriha Inori",
+        "path": "terminal/doki-yuzuriha-inori.json"
+      },
+      {
+        "id": "doki-zero-two-light-lily",
+        "title": "Doki Zero Two Light Lily",
+        "path": "terminal/doki-zero-two-light-lily.json"
+      },
+      {
+        "id": "doki-zero-two-light-sakura",
+        "title": "Doki Zero Two Light Sakura",
+        "path": "terminal/doki-zero-two-light-sakura.json"
+      },
+      {
+        "id": "termcn-ayu-light",
+        "title": "termcn Ayu Light",
+        "path": "terminal/termcn-ayu-light.json"
+      },
+      {
+        "id": "termcn-catppuccin-latte",
+        "title": "termcn Catppuccin Latte",
+        "path": "terminal/termcn-catppuccin-latte.json"
+      },
+      {
+        "id": "termcn-cute-pink-light",
+        "title": "termcn Cute Pink Light",
+        "path": "terminal/termcn-cute-pink-light.json"
+      },
+      {
+        "id": "termcn-everforest-light",
+        "title": "termcn Everforest Light",
+        "path": "terminal/termcn-everforest-light.json"
+      },
+      {
+        "id": "termcn-flexoki-light",
+        "title": "termcn Flexoki Light",
+        "path": "terminal/termcn-flexoki-light.json"
+      },
+      {
+        "id": "termcn-github-light",
+        "title": "termcn GitHub Light",
+        "path": "terminal/termcn-github-light.json"
+      },
+      {
+        "id": "termcn-gruvbox-light",
+        "title": "termcn Gruvbox Light",
+        "path": "terminal/termcn-gruvbox-light.json"
+      },
+      {
+        "id": "termcn-high-contrast-light",
+        "title": "termcn High Contrast Light",
+        "path": "terminal/termcn-high-contrast-light.json"
+      },
+      {
+        "id": "termcn-rose-pine-dawn",
+        "title": "termcn Rosé Pine Dawn",
+        "path": "terminal/termcn-rose-pine-dawn.json"
+      },
+      {
+        "id": "termcn-solarized-light",
+        "title": "termcn Solarized Light",
+        "path": "terminal/termcn-solarized-light.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "author": "shelmecha",
+  "repository": "https://github.com/shelmecha/doki-orca-light"
+}
