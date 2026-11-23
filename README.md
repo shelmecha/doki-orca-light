@@ -11,11 +11,11 @@ Part of the Doki theme set from [shelmecha/doki-themes](https://github.com/shelm
 The theme colors come from these projects.
 
 - **Doki Theme** by Unthrottled: https://github.com/doki-theme/doki-theme-vscode (MIT)
-  The 88 Doki themes in `hooks/themes.ts` come from its VS Code extension.
+  The 88 Doki themes in shelmecha/doki-themes `hooks/themes.ts` come from its VS Code extension.
 - **termcn** by shadcn-labs: https://github.com/shadcn-labs/termcn
-  The termcn themes in `hooks/termcn-themes.ts` come from its theme registry (https://termcn.dev). MIT.
+  The termcn themes in shelmecha/doki-themes `hooks/termcn-themes.ts` come from its theme registry (https://termcn.dev). MIT.
 
-The extra light themes in `hooks/termcn-extra-themes.ts` come from:
+The extra light themes in shelmecha/doki-themes `hooks/termcn-extra-themes.ts` come from:
 
 - **Cute Pink Light** by WebFreak001: https://gitlab.com/WebFreak001/cute-vscode (CC0-1.0)
 - **Catppuccin Latte** by Catppuccin: https://github.com/catppuccin/palette (MIT)
